@@ -1,0 +1,2 @@
+At one point I was half-working with a friend on a program to play Go.
+We wanted to build a client-server type thing implementing the Go Text Protocol to wrap the AI in so that a human or another AI could play against it, for testing purposes. We abandoned that project pretty early on. This is all that's left of the server code. I might take this one up again just for the practice/heck of it some time, even though there are existing solutions for this situation.
